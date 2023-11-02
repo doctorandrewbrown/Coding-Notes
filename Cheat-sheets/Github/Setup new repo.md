@@ -8,6 +8,7 @@
   $ git branch -M main
   $ git push -u origin main
   ```
+*
 * Check remote is connected with
   ```bash
   $ git remote -v
