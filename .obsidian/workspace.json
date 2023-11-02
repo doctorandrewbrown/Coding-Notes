@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat-sheets/Untitled.md",
+                "file": "Cheat-sheets/Github/Setup github repo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat-sheets/Untitled.md",
+                "file": "Cheat-sheets/Github/Setup github repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheat-sheets/Untitled.md",
+                "file": "Cheat-sheets/Github/Setup github repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat-sheets/Untitled.md"
+                "file": "Cheat-sheets/Github/Setup github repo.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0552c2f1210ceb4",
+  "active": "c5086bdf2b361b84",
   "lastOpenFiles": [
     "README.md",
-    "Cheat-sheets/Untitled.md",
-    "SQL-Alchemy",
+    "Cheat-sheets/Github/Setup github repo.md",
+    "Cheat-sheets/Obsidian",
+    "Cheat-sheets/Github",
+    "Cheat-sheets/Github.md",
+    "Cheat-sheets/SQL-Alchemy",
     "Untitled",
     "Cheat-sheets"
   ]
