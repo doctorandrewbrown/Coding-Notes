@@ -1,9 +1,8 @@
-#
 
 ### Connect remote repo to existing local
-* First initialize local repo with ```git init```
-* Create a repo to connect to in github
-* In local terminal connect with eg.
+* First make and initialize local repo with ```git init```
+* In github. create a repo to connect to
+* In local terminal connect to remote
   ```bash
   $ git remote add origin https://github.com/doctorandrewbrown<remote_repo_name>
   ```
