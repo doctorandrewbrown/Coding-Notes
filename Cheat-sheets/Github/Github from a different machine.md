@@ -1,13 +1,16 @@
-* First configure git for username and email as used for original github account
+* First, make a new directory locally to clone into.
+* Open cmd line for directory in vscode etc. and configure git for username and email as used for original github account
 ```shell
 $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
 ```
 
-* Clone a github repo into a new local providing PAT
+* Clone a github repo into a new local directory (without ```git init```)
+```providing PAT
 ```shell
 $ git clone https://github.com/USERNAME/REPO.git
 Username: YOUR_USERNAME
 Password: YOUR_PERSONAL_ACCESS_TOKEN
 ```
 * The PAT is stored locally in a file on original machine. If you can't find the original you can't recover it. But I think you can go into your github account and generate a new PAT and use that.
+* It should now be possible to push/pull and machine will be authenticated.
