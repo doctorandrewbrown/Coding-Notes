@@ -1,2 +1,2 @@
 # obsidian-coding
-Coding 
+Coding notes
