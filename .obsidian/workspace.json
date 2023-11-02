@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat-sheets/Github/Untitled.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat-sheets/Github/Untitled.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheat-sheets/Github/Untitled.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat-sheets/Github/Untitled.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "c0552c2f1210ceb4",
   "lastOpenFiles": [
-    "Cheat-sheets/Github/Setup Github for a different machine.md",
     "Cheat-sheets/Github/Untitled.md",
+    "Cheat-sheets/Github/Setup on a new machine.md",
     "Cheat-sheets/Github/Setup github repo.md",
     "README.md",
     "Cheat-sheets/Obsidian",
