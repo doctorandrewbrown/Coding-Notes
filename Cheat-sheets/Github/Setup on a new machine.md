@@ -1,3 +1,4 @@
+
 * First, on new machine, make a new directory locally to clone into. Do not initialize as a repo as we will be cloning an existing repo from github.
 * Open cmd line for directory in vscode etc. and configure git for username and email as used for original github account. You can get username and email using ```git config --list``` on original machine.
 
