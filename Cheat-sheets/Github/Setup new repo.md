@@ -1,4 +1,4 @@
-# Git Notes
+#
 
 ### Connect remote repo to existing local
 * First initialize local repo with ```git init```
