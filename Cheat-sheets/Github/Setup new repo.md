@@ -5,6 +5,8 @@
 * In local terminal connect to remote
   ```bash
   $ git remote add origin https://github.com/doctorandrewbrown<remote_repo_name>
+  $ git branch -M main
+  $ git push -u origin main
   ```
 * Check remote is connected with
   ```bash
