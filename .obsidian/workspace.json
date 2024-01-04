@@ -10,13 +10,15 @@
           {
             "id": "c0552c2f1210ceb4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Cheat-sheets/Github/Setup new repo.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
