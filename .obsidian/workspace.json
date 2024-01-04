@@ -16,12 +16,25 @@
               "state": {
                 "file": "Cheat-sheets/Github/Setup new repo.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d02fd803e3a47449",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheat-sheets/Github/Cloning a repo.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat-sheets/Github/Setup new repo.md",
+                "file": "Cheat-sheets/Github/Cloning a repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheat-sheets/Github/Setup new repo.md",
+                "file": "Cheat-sheets/Github/Cloning a repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat-sheets/Github/Setup new repo.md"
+                "file": "Cheat-sheets/Github/Cloning a repo.md"
               }
             }
           }
@@ -148,10 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0552c2f1210ceb4",
+  "active": "d02fd803e3a47449",
   "lastOpenFiles": [
-    "Cheat-sheets/Github/Setup on a new machine.md",
     "Cheat-sheets/Github/Setup new repo.md",
+    "Cheat-sheets/Github/Setup on a new machine.md",
     "Cheat-sheets/Github/Cloning a repo.md",
     "README.md",
     "Cheat-sheets/Obsidian",
