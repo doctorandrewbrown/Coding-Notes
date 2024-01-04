@@ -10,16 +10,25 @@ $ git remote -v
 ```
 - This will show that the local clone is still set to push/pull from original remote repo eg.
 ``` bash
-origin  https://github.com/doctorandrewbrown/test-repo.git (fetch)
-origin  https://github.com/doctorandrewbrown/test-repo.git (push)
+origin  https://github.com/doctorandrewbrown/original-repo.git (fetch)
+origin  https://github.com/doctorandrewbrown/original-repo.git (push)
 ```
 - Remove the original remote (named origin conventionally)
 ``` bash
-$ git remote rm origin
+$ git remote remove origin
 ```
 - Check for remotes again as above and there will be no output to terminal
 - In github create new empty repo to act as new remote and copy url from dashboard
-- In vscode terminal set new remote
+- In vscode terminal set new remote eg.
 ``` bash
-
+git remote add origin https://github.com/doctorandrewbrown/new-remote.git
+```
+- Check again with ```git remote -v``` to see new remote connected 
+```bash
+origin  https://github.com/doctorandrewbrown/original-repo.git (fetch)
+origin  https://github.com/doctorandrewbrown/original-repo.git (push)
+```
+- Now, without making any commit (there are no changes yet) push files to new github repo 
+```bash
+$ git 
 ```
