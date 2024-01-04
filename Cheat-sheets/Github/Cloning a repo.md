@@ -30,5 +30,6 @@ origin  https://github.com/doctorandrewbrown/original-repo.git (push)
 ```
 - Now, without making any commit (there are no changes yet) push files to new github repo 
 ```bash
-$ git 
+$ git push -u origin main
 ```
+- The repo will now be connected to github remote for push/pull
