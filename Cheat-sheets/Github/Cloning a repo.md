@@ -13,7 +13,7 @@ $ git remote -v
 origin  https://github.com/doctorandrewbrown/original-repo.git (fetch)
 origin  https://github.com/doctorandrewbrown/original-repo.git (push)
 ```
-- Remove the original remote (named origin conventionally)
+- Remove the original remote (named origin see above)
 ``` bash
 $ git remote remove origin
 ```
@@ -23,12 +23,12 @@ $ git remote remove origin
 ``` bash
 git remote add origin https://github.com/doctorandrewbrown/new-remote.git
 ```
-- Check again with ```git remote -v``` to see new remote connected 
+- Check again with ```git remote -v``` to see new remote called origin connected 
 ```bash
 origin  https://github.com/doctorandrewbrown/original-repo.git (fetch)
 origin  https://github.com/doctorandrewbrown/original-repo.git (push)
 ```
-- Now, without making any commit (there are no changes yet) push files to new github repo 
+- Now, without making any commit locally (there are no changes yet) push files to new github repo 
 ```bash
 $ git push -u origin main
 ```

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat-sheets/Github/Setup new repo.md",
+                "file": "Cheat-sheets/Github/New repo.md",
                 "mode": "source",
                 "source": true
               },
@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat-sheets/Github/Cloning a repo.md",
-                "mode": "preview",
+                "file": "Cheat-sheets/Github/New machine setup.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 266.51103591918945
   },
   "right": {
     "id": "78eb9beab8e23151",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat-sheets/Github/Cloning a repo.md",
+                "file": "Cheat-sheets/Github/New machine setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheat-sheets/Github/Cloning a repo.md",
+                "file": "Cheat-sheets/Github/New machine setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat-sheets/Github/Cloning a repo.md"
+                "file": "Cheat-sheets/Github/New machine setup.md"
               }
             }
           }
@@ -161,11 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d02fd803e3a47449",
+  "active": "c5086bdf2b361b84",
   "lastOpenFiles": [
-    "Cheat-sheets/Github/Setup new repo.md",
-    "Cheat-sheets/Github/Setup on a new machine.md",
     "Cheat-sheets/Github/Cloning a repo.md",
+    "Cheat-sheets/Github/New repo.md",
+    "Cheat-sheets/Github/New machine setup.md",
     "README.md",
     "Cheat-sheets/Obsidian",
     "Cheat-sheets/Github",
