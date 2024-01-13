@@ -32,9 +32,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "65182995d147987b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheat-sheets/Django/Sqlite3/Sqlite3 cmd line.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat-sheets/Github/New machine setup.md",
+                "file": "Cheat-sheets/Django/Sqlite3/Sqlite3 cmd line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheat-sheets/Github/New machine setup.md",
+                "file": "Cheat-sheets/Django/Sqlite3/Sqlite3 cmd line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat-sheets/Github/New machine setup.md"
+                "file": "Cheat-sheets/Django/Sqlite3/Sqlite3 cmd line.md"
               }
             }
           }
@@ -161,8 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5086bdf2b361b84",
+  "active": "65182995d147987b",
   "lastOpenFiles": [
+    "Cheat-sheets/Django/Sqlite3/Sqlite3 cmd line.md",
+    "Untitled",
     "Cheat-sheets/Github/Cloning a repo.md",
     "Cheat-sheets/Github/New repo.md",
     "Cheat-sheets/Github/New machine setup.md",
@@ -171,7 +185,6 @@
     "Cheat-sheets/Github",
     "Cheat-sheets/Github.md",
     "Cheat-sheets/SQL-Alchemy",
-    "Untitled",
     "Cheat-sheets"
   ]
 }
