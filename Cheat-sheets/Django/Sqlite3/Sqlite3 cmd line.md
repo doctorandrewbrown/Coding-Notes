@@ -2,7 +2,7 @@
 ``` bash
 $ sudo apt install sqlite3
 ```
-- type cmd for prompt
+- type cmd below for prompt to run SQL commands
 ``` bash
-$ sudo apt install sqlite3
+$ sqlite3
 ```
