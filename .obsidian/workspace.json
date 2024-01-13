@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat-sheets/Django/Sqlite3/Sqlite3 cmd line.md",
-                "mode": "source",
+                "file": "Cheat-sheets/Github/New repo.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat-sheets/Django/Sqlite3/Sqlite3 cmd line.md",
+                "file": "Cheat-sheets/Github/New repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheat-sheets/Django/Sqlite3/Sqlite3 cmd line.md",
+                "file": "Cheat-sheets/Github/New repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat-sheets/Django/Sqlite3/Sqlite3 cmd line.md"
+                "file": "Cheat-sheets/Github/New repo.md"
               }
             }
           }
@@ -175,12 +175,12 @@
   },
   "active": "65182995d147987b",
   "lastOpenFiles": [
-    "Cheat-sheets/Django/Sqlite3/Sqlite3 cmd line.md",
-    "Untitled",
-    "Cheat-sheets/Github/Cloning a repo.md",
-    "Cheat-sheets/Github/New repo.md",
     "Cheat-sheets/Github/New machine setup.md",
+    "Cheat-sheets/Github/Cloning a repo.md",
+    "Cheat-sheets/Django/Sqlite3/Sqlite3 cmd line.md",
     "README.md",
+    "Untitled",
+    "Cheat-sheets/Github/New repo.md",
     "Cheat-sheets/Obsidian",
     "Cheat-sheets/Github",
     "Cheat-sheets/Github.md",
