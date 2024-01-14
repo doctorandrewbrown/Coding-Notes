@@ -1,4 +1,4 @@
-- In gitpod workspace may have to run 
+- In gitpod workspace you have to re-install sqlite each time you start the work 
 ``` bash
  $ sudo apt update
 ```
