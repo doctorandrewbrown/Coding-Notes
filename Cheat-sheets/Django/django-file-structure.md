@@ -1,7 +1,7 @@
 ## django file structure
-- showing a project called charity_shop with one app called home. Note project, any apps and manage.py are at the same level as is templates folder for base templates. 
-``` shell
-gitpod /workspace/boutique-ado (main) $ tree -L 2
+An example of the `tree` command showing a project called `boutique_ado` with one app called `home`. Note that any apps, the `manage.py` file, the `static` and `media` folders and the base templates folder, are all at the same level as the project.
+``` console
+$gitpod /workspace/boutique-ado (main) $ tree -L 2
 .
 ├── boutique_ado
 │   ├── asgi.py
