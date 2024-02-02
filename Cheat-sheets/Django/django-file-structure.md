@@ -1,5 +1,6 @@
 ## django file structure
-``` bash
+- showing a project called charity_shop with one app called home.
+``` shell
 ├── charity_shop
 │   ├── asgi.py
 │   ├── __init__.py
