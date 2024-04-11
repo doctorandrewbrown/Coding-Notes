@@ -4,7 +4,7 @@
 * In github. create a repo to connect to
 * In local terminal connect to remote. Remember to make a commit or push will fail
   ```bash
-  $ git remote add origin https://github.com/doctorandrewbrown<remote_repo_name>
+  $ git remote add origin https://github.com/doctorandrewbrown/<remote_repo_name>
   $ git branch -M main
   $ git push -u origin main
   ```
