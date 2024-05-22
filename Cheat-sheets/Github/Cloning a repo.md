@@ -1,6 +1,6 @@
 ###  Cloning a github repo
 -  In vscode or terminal create new empty directory to receive cloned repo
-- cd into directory and 
+- cd into directory and (don't forget venv)
 ``` bash
 $ git clone <github repo url>
 ```
