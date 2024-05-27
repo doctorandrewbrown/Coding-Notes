@@ -1,4 +1,0 @@
-- Click on + button to add new file
-- initialize directory name with "/" eg /test_dir in the input box
-- type new file name with .md extention in input box after directory name eg test_dir/test_file.md
-- note: you can not initialize an empty directory - you must create a new file at the same time
