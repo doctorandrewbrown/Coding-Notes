@@ -1,1 +1,2 @@
-* Resources on customising
+** Resources on customising BootstrapMade templates
+* 
