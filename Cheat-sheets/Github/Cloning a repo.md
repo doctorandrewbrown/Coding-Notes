@@ -36,6 +36,6 @@ origin  https://github.com/doctorandrewbrown/new-remote.git (push)
 $ git push -u origin main
 ```
 - The repo will now be connected to github remote for push/pull. Check remote as before
-  ```bash
+```bash
 $ git remote -v 
 ```
