@@ -1,19 +1,22 @@
 ###  Cloning a github repo
--  In vscode or terminal create new empty directory to receive cloned repo
-- cd into directory and (don't forget venv)
+- These steps apply to local work with VScode and Gitpod workspaces
+- There is **no** need to create new empty directory to receive cloned repo
+- The following cmd will create a new cloned directory containing all the files in the location you run it (e.g. home directory)
 ``` bash
 $ git clone <github repo url>
 ```
-- Once files are cloned in terminal you have a copy of the git repository (no need for ```git init``` ) run 
+- Type ```code .``` to open in vscode
+- Once files are cloned you have a copy of the git repository already initialised (no need for ```git init``` ) run 
 ```bash
 $ git remote -v 
 ```
-- This will show that the local clone is still set to push/pull from original remote repo eg.
+- This will show the connected remote repo
 ``` bash
 origin  https://github.com/doctorandrewbrown/original-repo.git (fetch)
 origin  https://github.com/doctorandrewbrown/original-repo.git (push)
 ```
-- Remove the original remote (named origin see above)
+- If its your repo that's all you need to do
+- If it's not your repo remove the original remote (named origin see above)
 ``` bash
 $ git remote remove origin
 ```
@@ -25,11 +28,14 @@ git remote add origin https://github.com/doctorandrewbrown/new-remote.git
 ```
 - Check again with ```git remote -v``` to see new remote called origin connected 
 ```bash
-origin  https://github.com/doctorandrewbrown/original-repo.git (fetch)
-origin  https://github.com/doctorandrewbrown/original-repo.git (push)
+origin  https://github.com/doctorandrewbrown/new-remote.git (fetch)
+origin  https://github.com/doctorandrewbrown/new-remote.git (push)
 ```
 - Now, without making any commit locally (there are no changes yet) push files to new github repo 
 ```bash
 $ git push -u origin main
 ```
-- The repo will now be connected to github remote for push/pull
+- The repo will now be connected to github remote for push/pull. Check remote as before
+  ```bash
+$ git remote -v 
+```
